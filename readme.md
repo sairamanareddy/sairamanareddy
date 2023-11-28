@@ -30,12 +30,6 @@ I'm passionate about all things Computer Science, but I'm more experienced in Di
 
 <br>
 
-### **Hobbies**
-* Books and movies
-* Watching and playing (sometimes) sports
-* Listening to music
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sairamanareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/sairamanareddy/sairamanareddy/main/linked-in-alt.svg" alt="sairamanareddy" height="30" width="40" /></a>
